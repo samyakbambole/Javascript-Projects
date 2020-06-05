@@ -5,5 +5,5 @@ These projects were taught to me by The Coding Train
 
 ### Projects Included : 
 
-* Analog Clock in Javascript
-* Phyllotaxis
+* [Analiog Clock in Javascript](https://github.com/samyakbambole/Javascript-Projects/tree/master/1.Analog_Clock)
+* [Phyllotaxis in Javascript](https://github.com/samyakbambole/Javascript-Projects/tree/master/2.Phyllotaxis)
